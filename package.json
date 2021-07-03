@@ -1,0 +1,9 @@
+{
+  "name": "fix-repo",
+  "version": "2.10.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "convert-units": "^3.0.0-beta.1"
+  }
+}
