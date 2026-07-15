@@ -3,6 +3,6 @@
 
 
 convert-units@^3.0.0-beta.1:
-  version "3.0.0-beta.1"
-  resolved "https://registry.yarnpkg.com/convert-units/-/convert-units-3.0.0-beta.1.tgz#5f7f3c9812057321be1202d0145f2662a4d83c60"
-  integrity sha512-nZOC+qgBqrqNXf3OfTQ7jMrAaLl1uAvAfBUKoSzscaGOI74UmUIPviiWxyIePt63sfuR9RIknPOTPLlZukmCoA==
+  version "3.0.0-beta.8"
+  resolved "https://registry.yarnpkg.com/convert-units/-/convert-units-3.0.0-beta.8.tgz#8565462d4a030f9fedac54669aeeffefe288dc97"
+  integrity sha512-P6QkFbVXIb798vkX4nhjYiz5DUfHpI8EngjTHzINYfMKn5O+EM9wkIrfuxjyJbK3g/Ei8m4vJNGQLWRz71lgIQ==
